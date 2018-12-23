@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-23T20:28:59Z" name="Default suite" finished-at="2018-12-23T20:29:05Z" duration-ms="6130">
+    <groups>
+    </groups>
+    <test started-at="2018-12-23T20:28:59Z" name="Default test" finished-at="2018-12-23T20:29:05Z" duration-ms="6130">
+      <class name="in.licious.test.TestLogin">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:in.licious.test.TestLogin@5aa0dbf4]" started-at="2018-12-24T01:58:59Z" name="openApp" finished-at="2018-12-24T01:59:00Z" duration-ms="1417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="testTestLogin()[pri:0, instance:in.licious.test.TestLogin@5aa0dbf4]" started-at="2018-12-24T01:59:00Z" name="testTestLogin" finished-at="2018-12-24T01:59:05Z" duration-ms="4675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTestLogin -->
+      </class> <!-- in.licious.test.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
